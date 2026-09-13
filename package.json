@@ -13,7 +13,7 @@
     "typescript"
   ],
   "author": "xiangsx",
-  "license": "ISC",
+  "license": "GPL-3.0-only",
   "devDependencies": {
     "@types/axios": "^0.14.0",
     "@types/chrome-remote-interface": "^0.31.10",
